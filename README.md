@@ -190,7 +190,7 @@ Web体验地址：https://simplezhli.github.io/flutter_deer/
 - 其他历史问题见docs目录下的问题汇总。
 
 ## Thanks For
-
+  https://guoshuyu.cn/home/wx/Z3.html
 - [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid)
 
 ## License
